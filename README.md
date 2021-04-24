@@ -1,4 +1,4 @@
 en:
-This roomservice is only for begonia on Evolution X.
+This roomservice is only for begonia on Mokee.
 中文：
-这个roomservice只有进化X的begonia能用
+这个roomservice只有Mokee的begonia能用
