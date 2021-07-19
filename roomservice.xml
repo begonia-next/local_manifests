@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="RUSHHE/device_xiaomi_begonia" path="device/xiaomi/begonia" remote="github" revision="Mokee" />
-  <project name="RUSHHE/vendor_xiaomi_begonia" path="vendor/xiaomi/begonia" remote="github" revision="android-11.0" />
-  <project name="PixelExperience-Devices/kernel_xiaomi_begonia" path="kernel/xiaomi/begonia" remote="github" revision="eleven" />
-  <project name="RUSHHE/vendor_xiaomi_begonia-firmware" path="vendor/xiaomi/begonia-firmware" remote="github" revision="android-11.0" />
-  <project name="PixelExperience/device_mediatek_sepolicy" path="vendor/xiaomi/begonia-firmware" remote="github" revision="eleven" />
-  <project name="PixelExperience-Devices/device_xiaomi_begonia-kernel" path="device/xiaomi/begonia-kernel" remote="github" revision="eleven" />
-  <project name="PixelExperience/vendor_mediatek-opensource" path="vendor/mediatek/opensource" remote="github" revision="eleven" />
-  <project name="PixelExperience/vendor_mediatek_interfaces" path="vendor/mediatek/interfaces" remote="github" revision="eleven" />
-  <project name="PixelExperience/vendor_mediatek_ims" path="vendor/mediatek/ims" remote="github" revision="eleven" />
+  <project name="begonia-next/device_redmi_begonia" path="device/redmi/begonia" remote="github" revision="mkr-mk1" />
+  <project name="PotatoDevices/vendor_redmi_begonia" path="vendor/redmi/begonia" remote="github" revision="dumaloo-release" />
+  <project name="AgentFabulous/begonia" path="kernel/xiaomi/mt6785" remote="github" revision="android-11.0" />
+  <project name="PotatoDevices/vendor_xiaomi_begonia-firmware" path="vendor/redmi/begonia-firmware" remote="github" revision="dumaloo-release" />
+  <project name="PotatoProject/device_mediatek_sepolicy" path="device/mediatek/sepolicy" remote="github" revision="dumaloo-release" />
+  <project name="PotatoDevices/vendor_mediatek-opensource" path="vendor/mediatek/opensource" remote="github" revision="dumaloo-release" />
+  <project name="PotatoDevices/vendor_mediatek_interfaces" path="vendor/mediatek/interfaces" remote="github" revision="dumaloo-release" />
+  <project name="Descendant-Devices/vendor_mediatek_ims" path="vendor/mediatek/ims" remote="github" revision="eleven" />
 </manifest>
